@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hell0isabelle.github.io/al-folio/sitemap.xml
